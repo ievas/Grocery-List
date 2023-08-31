@@ -1,0 +1,50 @@
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #088F8F;
+}
+h2 {
+    background-color: antiquewhite;
+    border-style: solid;
+    display: inline-block;
+    padding: 30px;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.container{
+    display: flex;
+}
+
+
+section {
+    display: inline-block;
+    padding: 30px;
+    margin: 30px;
+    width: 250px;
+    height: 250px;
+  
+}
+
+
+#food-section {
+    background-color: rgb(191, 186, 179);
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+    
+
+#img-section {
+    border-style: solid;  
+}
